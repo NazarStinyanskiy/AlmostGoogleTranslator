@@ -1,0 +1,24 @@
+1 one
+2 two
+3 three
+4 four
+5 five
+6 six
+7 seven
+8 eigth
+9 nine
+10 ten
+11 hi
+12 goodbye
+13 room
+14 folder
+15 mother
+16 dad
+17 grand father
+18 grand mother
+19 sister
+20 brother
+21 son
+22 daughter
+23 dog
+24 cat
